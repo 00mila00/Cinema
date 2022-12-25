@@ -1,6 +1,6 @@
 # Cinema
 My and my friend's Krzysztof first study project in objective C++ :)
-You can see UML diagram how it looks from the inside.
+You can open UML diagram to see how it looks from the inside.
 App contains only text UI with instructions.
 
 In this app when you know the password ;) you can be a cinema admin who can add new movie,
